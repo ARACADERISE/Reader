@@ -1,0 +1,6 @@
+{
+	"file": "file",
+	"default_offsets": [5, 9, 13, 17],
+	"increments_by": 1,
+	"offset": true
+}
